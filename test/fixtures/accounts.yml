@@ -3,9 +3,7 @@
 one:
   type: 1
   name: MyString
-  accountKey: MyString
 
 two:
   type: 1
   name: MyString
-  accountKey: MyString

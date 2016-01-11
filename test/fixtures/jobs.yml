@@ -2,8 +2,8 @@
 
 one:
   schedule: MyString
-  secsTimeout: 1
+  secs_timeout: 1
 
 two:
   schedule: MyString
-  secsTimeout: 1
+  secs_timeout: 1

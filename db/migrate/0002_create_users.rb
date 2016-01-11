@@ -4,6 +4,7 @@ class CreateUsers < ActiveRecord::Migration
       t.string :email
       t.string :user_key
       t.boolean :active
+      t.string :fullname
       t.integer :default_account_id
 
       t.timestamps null: false

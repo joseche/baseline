@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  synLang: MyString
+  syn_lang: MyString
   content: MyText
   filename: MyString
 
 two:
-  synLang: MyString
+  syn_lang: MyString
   content: MyText
   filename: MyString

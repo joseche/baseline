@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  statusCode: 1
+  status_code: 1
   output: MyText
-  startDate: 2015-12-31 20:37:20
-  endDate: 2015-12-31 20:37:20
+  start_date: 2015-12-31 20:37:20
+  end_date: 2015-12-31 20:37:20
 
 two:
-  statusCode: 1
+  status_code: 1
   output: MyText
-  startDate: 2015-12-31 20:37:20
-  endDate: 2015-12-31 20:37:20
+  start_date: 2015-12-31 20:37:20
+  end_date: 2015-12-31 20:37:20

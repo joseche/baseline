@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'better_errors'
+gem 'simplecov', :require => false, :group => :test

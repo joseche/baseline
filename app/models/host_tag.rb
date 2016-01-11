@@ -1,4 +1,4 @@
 class HostTag < ActiveRecord::Base
-  belongs_to :host
-  belongs_to :tag
+  belongs_to :host, dependent: :destroy
+  belongs_to :tag, dependent: :destroy
 end
